@@ -1,3 +1,3 @@
 # hello-world
 Base files for appimage source folder
-Used as a template to creste an appimage.
+Used as a template to create an appimage.
